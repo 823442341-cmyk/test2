@@ -1,0 +1,5 @@
+{
+  "name": "A-Level Momentum & Collision Lab",
+  "description": "An interactive 1D physics simulator for A-Level students to explore momentum conservation and the coefficient of restitution with real-time vector visualization and data analysis.",
+  "requestFramePermissions": []
+}
